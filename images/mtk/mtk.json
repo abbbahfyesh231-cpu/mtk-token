@@ -1,9 +1,0 @@
-{
-  "name": "MTK Token",
-  "symbol": "MTK",
-  "decimals": 18,
-  "chainId": 1,
-  "description": "The official MTK token.",
-  "logoURI": "https://raw.githubusercontent.com/abbabahfyesh231-cpu/mtk-token/main/images/mtk/logo.png",
-  "address": "0x244f0c2636368a1dd724af279a0b5d78fab8f29b"
-}
